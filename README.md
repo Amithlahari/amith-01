@@ -1,16 +1,19 @@
 # Hi, I'm Amith 👋
 
-🎓 Master's in Electromobility @ FAU Erlangen-Nürnberg  
-💻 Software Engineer focused on Backend + AI Systems  
-🤖 Interested in AI Agents, RAG, Intelligent Systems  
-🎵 Exploring AI + Audio  
+🎓 M.Sc. Electromobility @ FAU Erlangen-Nürnberg  
+💻 Software Engineer with experience in Python-based development and automation  
+🤖 Interested in Intelligent Systems, AI Agents, RAG, and Human-Computer Interaction  
+🎵 Exploring AI + Audio
 
-## Tech Stack
-- Python, FastAPI, SQL
-- Machine Learning, RAG
-- Docker, Git
+## Interests
+- Software Engineering
+- AI Systems
+- Speech & Audio AI
+- Human-Computer Interaction
+- Intelligent Interfaces
 
-## Projects
-- Intelligent Document QA System (RAG)
-- Backend API Systems
-
+## Currently Exploring
+- Speech recognition pipelines
+- AI deployment systems
+- Backend engineering
+- Audio signal processing
